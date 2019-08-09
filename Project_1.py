@@ -159,7 +159,7 @@ def tab(): #User Experience
             has_item2 = True
         if item3 == "Empty":
             has_item3 = False
-        else:                                 #Can't even understand sick fuck
+        else:                             
             has_item3 = True
         if use_item == False:
             enter()
